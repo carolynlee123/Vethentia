@@ -1,0 +1,6 @@
+framework module Pods_VethentiaUITests {
+  umbrella header "Pods-VethentiaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

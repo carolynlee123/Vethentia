@@ -1,0 +1,39 @@
+PODS:
+  - NVActivityIndicatorView (2.12)
+  - PhoneNumberKit (0.8.5):
+    - PhoneNumberKit/PhoneNumberKitCore (= 0.8.5)
+    - PhoneNumberKit/UIKit (= 0.8.5)
+  - PhoneNumberKit/PhoneNumberKitCore (0.8.5)
+  - PhoneNumberKit/UIKit (0.8.5):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - SkyFloatingLabelTextField (1.3.1)
+  - Stripe (9.4.0)
+  - SwiftSpinner (0.9.5)
+
+DEPENDENCIES:
+  - NVActivityIndicatorView (from `https://github.com/ninjaprox/NVActivityIndicatorView.git`, branch `swift2.3`)
+  - PhoneNumberKit (~> 0.8.5)
+  - SkyFloatingLabelTextField (~> 1.0)
+  - Stripe
+  - SwiftSpinner (~> 0.9.5)
+
+EXTERNAL SOURCES:
+  NVActivityIndicatorView:
+    :branch: swift2.3
+    :git: https://github.com/ninjaprox/NVActivityIndicatorView.git
+
+CHECKOUT OPTIONS:
+  NVActivityIndicatorView:
+    :commit: 36978f3957d9ae2af87402e67189f345d8856798
+    :git: https://github.com/ninjaprox/NVActivityIndicatorView.git
+
+SPEC CHECKSUMS:
+  NVActivityIndicatorView: de8be03826726ad99cdfacf7fe09e88cbfeef911
+  PhoneNumberKit: 5668a7af19d2e566d92831a632ee80f5047eff75
+  SkyFloatingLabelTextField: eec4a8d62fa393f04ae6491a5fbd09c3029eeda5
+  Stripe: 0957cc85df5c3df153e6fb44d307ea4b778b6bd1
+  SwiftSpinner: c6585a0ae5c67eb33e737695cce88f0262008cce
+
+PODFILE CHECKSUM: ded68021ad40b2b0751747953bedb77f1249ed3c
+
+COCOAPODS: 1.1.1
